@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    background: springgreen ;
+}
+
+h1{
+    background: wheat;
+    padding: 60px;
+    margin: 48px;
+    /* border-style: solid;
+    border-width: 20px;
+    border-color: brown; */
+    border-bottom: 30px solid red;
+
+}
+p{
+    background: violet;
+    border: 3rem dashed red;
+    padding: 60px;
+    margin: 80px 6px 40px 42px;
+
+}
